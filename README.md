@@ -1,2 +1,2 @@
-# zillow
-Extract data from zillow using python
+# Python
+Extract data for constructing MLS and analysis
